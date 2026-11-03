@@ -34,3 +34,4 @@ Currently following plugins are available in play store and f-droid repository.
     - Library used to develop plugins
     - Any developer can use this library to create new plugins
 - [Zettel-Notes-Plugin-Buttons <i class='fa fa-github'></i>](https://github.com/damionx7/Zettel-Notes-Plugin-Buttons/)
+<sup></sup>
